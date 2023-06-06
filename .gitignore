@@ -1,0 +1,11 @@
+# Terraform
+.terraform
+.terraform.lock.hcl
+
+dependencies
+
+# IntelliJ
+.idea
+
+# Fuckin Macs
+DS_Store
